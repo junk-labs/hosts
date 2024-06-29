@@ -1,1 +1,9 @@
 0.0.0.0  polyfill.io
+0.0.0.0  bootcdn.net
+0.0.0.0  bootcss.com
+0.0.0.0  staticfile.net
+0.0.0.0  staticfile.org
+0.0.0.0  unionadjs.com
+0.0.0.0  xhsbpza.com
+0.0.0.0  union.macoms.la
+0.0.0.0  newcrbpc.com
