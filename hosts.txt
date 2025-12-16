@@ -7,3 +7,4 @@
 0.0.0.0  xhsbpza.com
 0.0.0.0  union.macoms.la
 0.0.0.0  newcrbpc.com
+0.0.0.0  slashdot.jp
